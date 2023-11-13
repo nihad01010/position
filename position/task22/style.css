@@ -1,0 +1,18 @@
+.pos {
+    background-color: green;
+    width: 530px;
+    height: 50px;
+    margin-top: -30px;
+    position: sticky;
+    
+}
+.pos h3{
+    color: white;
+    font-size: 30px;
+}
+.pos span{
+    border: 1px solid white;
+}
+p{
+    font-size: 25px;
+}

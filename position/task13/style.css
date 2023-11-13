@@ -1,0 +1,140 @@
+.abs{
+    background-color: rgb(180, 102, 180);
+    width: 200px;
+    height: 160px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+}
+.abs h3{
+    padding-top: 36px;
+    font-size: 32px;
+}
+.box{
+    background-color: rgb(101, 101, 126);
+    width: 530px;
+    height: 100px;
+    margin-left: 300px;
+}
+.static{
+    background-color: orange;
+    margin-left: 30px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.stat{
+    padding-top: 40px;
+    font-size: 15px;
+}
+.relative{
+    border: 2px dashed rgb(47, 47, 91);
+    width: 100px;
+    height: 98px;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.box2{
+    background-color: rgb(69, 69, 120);
+    width: 100px;
+    height: 98px;
+    margin-left: 10px;
+}
+.box2 h4{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+.static2{
+    margin-left: 24rem;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin-top: -122px;
+}
+.stat2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+.box3{
+    background-color: rgb(101, 101, 126);
+    width: 530px;
+    height: 100px;
+    
+    margin-top: 60px;
+}
+.static3{
+    background-color: orange;
+    margin-left: 60px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.stat3{
+    padding-top: 40px;
+    font-size: 15px;
+}
+.static4{
+    margin-left: 23rem;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin-top: -115px;
+}
+.stat4{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+.box4{
+    background-color: rgb(101, 101, 126);
+    width: 530px;
+    height: 100px;
+    
+    margin-top: 60px;
+}
+.static5{
+    background-color: orange;
+    margin-left: 30px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+.stat5{
+    padding-top: 40px;
+    font-size: 15px;
+}
+.static6{
+    margin-left: 24rem;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin-top: -122px;
+}
+.stat6{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.box5{
+    background-color: red;
+    width: 100px;
+    height: 98px;
+    margin-left: 10px;
+}
+.box5 h4{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+.fixed{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -120px;
+}

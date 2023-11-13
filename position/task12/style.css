@@ -1,0 +1,31 @@
+.border{
+    border: 5px solid black;
+    width: 700px;
+    height: 500px;
+}
+.border h2{
+    font-size: 40px;
+    margin-top: 0;
+}
+.bor2{
+    border: 3px solid red;
+    width: 400px;
+    height: 190px;
+}
+.bor2 .inner{
+    font-size: 32px;
+    margin-top: 0;
+    color: red;
+}
+.abs{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+    background-color: navy;
+    position: absolute;
+    color: aliceblue;  
+}
+.absol{
+    margin-top: 0;
+    font-size: 32px;
+}

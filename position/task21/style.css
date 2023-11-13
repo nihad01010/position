@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    color: rgb(149, 87, 206);
+}
+.box{
+    border: 3px solid green;
+    border-radius: 10px;
+    width: 170px;
+    height: 140px;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 80%;
+    position: fixed;
+}
+.box h2{
+    color: green;
+}

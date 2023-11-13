@@ -1,0 +1,31 @@
+.border{
+    border: 2px solid black;
+    width: 20vw;
+    height: 60vh;
+    margin-left: 50%;
+}
+.border :nth-child(1){
+    background-color: blueviolet;
+    width: 40px;
+    height: 60vh;
+    margin-left: 55%;
+}
+.border :nth-child(2){
+    background-color: black;
+    width: 20vh;
+    height: 30px;
+    margin-top: -150%;
+    margin-left: 55%;
+}
+.border :nth-child(3){
+    background-color: yellow;
+    width: 120vh;
+    height: 30px;
+    margin-top: 60px;
+}
+.border :nth-child(4){
+    background-color: blue;
+    width: 30vh;
+    height: 30px;
+    margin-top: 90px;
+}

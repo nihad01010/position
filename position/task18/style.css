@@ -1,0 +1,15 @@
+.border{
+    border: 3px solid black;
+    width: 30vw;
+    height: 15vh;
+}
+.box{
+    background-color: blueviolet;
+    width: 100px;
+    height: 60px;
+    margin-left: 70%;
+    margin-top: -22%;
+}
+.box p{
+    color: white;
+}
